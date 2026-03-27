@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👩‍💻 About Me<br><br>I'm Carlotta, a web development student at HTL Villach focusing on modern web technologies.<br><br>I enjoy building structured, user-friendly applications and combining design with technical implementation. Most of my projects are created in a learning and experimental context, where I explore new tools and improve my skills.<br><br>Currently, I'm especially interested in fullstack development with React, Next.js and modern backend technologies.
+<br>I'm Carlotta, a web development student at HTL Villach focusing on modern web technologies.<br><br>I enjoy building structured, user-friendly applications and combining design with technical implementation. Most of my projects are created in a learning and experimental context, where I explore new tools and improve my skills.<br><br>Currently, I'm especially interested in fullstack development with React, Next.js and modern backend technologies.
 
 
 ## 🌐 Socials:
